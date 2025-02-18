@@ -3,7 +3,7 @@
 # NOTE: If putting a dict in conn_extra, please wrap in single quotes.
 
 # For more information, refer to our docs: https://www.astronomer.io/docs/astro/cloud-ide/configure-project-environment#view-environment-configurations-from-the-pipeline-editor
-# For issues or questions, reach out to: https://support.astronomer.io
+# For issues or questions, reach out to: https://support.astronomer.io. dummy.
 
 airflow:
   connections:
